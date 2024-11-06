@@ -1,1 +1,1 @@
-# 2D-and-3D-QR-code-Holographic
+This project focuses on the generation, manipulation, and application of both 2D and 3D QR codes. QR (Quick Response) codes are widely used for encoding data in a compact and accessible way. Traditional 2D QR codes can be found in everyday applications, while 3D QR codes represent a more advanced approach, encoding information with an additional layer of complexity.
